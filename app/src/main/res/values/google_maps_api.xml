@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Replace with your real Google Maps API Key from the Google Cloud Console -->
+    <string name="google_maps_key">AIzaSyBH1DePMpVd4kbggwqcA_pdBAGEFLaY8e8</string>
+</resources>
